@@ -1,3 +1,4 @@
+' copy this file in notepad and save as trust.vbs and click and run
 AddTrustedSite "https://*.beml.com" 
   
 Function AddTrustedSite(strDomainName) 
