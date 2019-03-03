@@ -1,3 +1,4 @@
+rem copy file in notepad and save as trust.bat and run file in administrator mode
 @Echo off&title gworks
 set "a=HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\"
 set b=*.beml.com
